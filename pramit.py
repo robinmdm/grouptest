@@ -1,3 +1,21 @@
+
+# Evaluation Comments by Rolstan
+
+# Good -
+
+# Works
+# Could be iterative & not to show the dict or hobbies without asked by the user, only print it when user selects that option
+
+# Things to improve -
+
+# Structured but variable names are not meaningful
+# Bit confusing to navigate
+# Output is not user friendly ex. Name & Hobby instead of { 'Name': 'Hobby' }...
+# Type of answer is not mentioned for making any changes to the dictionary ex Do you want to make changes ( Y / N ) ?
+# Similar case with Do you want to delete any entry? , entered nope but eitherways it told me to update the dictionary & showed the hobby list without me mentioning it
+
+
+
 def manage_hobbies():
     dict = {}
 
