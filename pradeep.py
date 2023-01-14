@@ -1,3 +1,18 @@
+
+
+# Evaluation Comments by Rolstan
+
+# Good -
+
+# Able to end the program using end command
+
+# Things to improve -
+
+# No comments on adding a user ex. user added or user stored...
+# Not able to display users on choosing display option...
+# Remove option is not working
+
+
 dict = {}
 condition = True
 while (condition):
