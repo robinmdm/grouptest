@@ -52,6 +52,6 @@ while (condition):
     else:
         print("Enter right input")
 
-# Could have added a counter before adding, that way I don't have to enter add command every time
+# Pramit # Could have added a counter before adding, that way I don't have to enter add command every time
 # Dictionary not getting updated
 # Display not WORKING!
