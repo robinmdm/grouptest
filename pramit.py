@@ -1,6 +1,6 @@
 def manage_hobbies():
     dict = {}
-    print(dict)
+
     # Taking inputs
     n = int(input("How many entries? "))
     # Storing Values irrespective of Key Case
