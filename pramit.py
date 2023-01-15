@@ -19,6 +19,8 @@
 def manage_hobbies():
     dict = {}
 
+
+    #Pradeep - input not in the way described in the question
     # Taking inputs
     n = int(input("How many entries? "))
     # Storing Values irrespective of Key Case
@@ -30,6 +32,8 @@ def manage_hobbies():
     print("Dictionary stored..")
     print(dict)
     # Prompt for change
+    # Pradeep - unless I see the program to enter yes or no is not very obvious. May be displaying in the text itself would help
+    # pradeep - case sensitive errors coming up
     a = input("Do you want to make changes? ")
     if a == "Yes" or a == "Y" or a == "yes" or a == "y":
         # Prompt for Deletion
@@ -69,3 +73,8 @@ def manage_hobbies():
 
 # Function Call
 manage_hobbies()
+
+
+
+#==words not capitalized while printing
+#removing entry does not work if i give input of a diff case

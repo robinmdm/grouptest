@@ -62,5 +62,8 @@ while exit:
 
         exit = False
 
+<<<<<<< Updated upstream
 # Pramit
 # Did not find any flaws, everything seems good
+=======
+>>>>>>> Stashed changes
